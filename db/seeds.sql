@@ -27,6 +27,6 @@ INSERT INTO employee (first_name, last_name, role_id, manager_id)
         ('Gary', 'Godzilla', 7, 2), /*CX Rep*/
         ('Henrietta', 'Hayward', 8, 1); /*IT Tech*/
 
-        SELECT * FROM department;
-        SELECT * FROM role;
-        SELECT * FROM employee;
+SELECT * FROM department;
+SELECT * FROM role;
+SELECT * FROM employee;
